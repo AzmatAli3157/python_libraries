@@ -11,3 +11,4 @@ In this repo we will convered the nessaries libraris in Data Science, Machine Le
 This repo is all about the libraries of python which are mentioned above.
 
 1. **Numpy**
+  Numerical Python (NumPy) is an open source Python library for scientific computing. NumPy provides a host of features that allow a Python programmer to work with high-performance arrays and matrices. NumPy arrays are stored more efficiently than Python lists and allow mathematical operations to be vectorized, which results in significantly higher performance than with looping constructs in Python.
